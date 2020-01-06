@@ -17,4 +17,3 @@ Pod::Spec.new do |s|
 
   s.dependency 'React'
 end
-© 2020 GitHub, Inc.
